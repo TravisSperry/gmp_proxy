@@ -11,3 +11,7 @@ end
 get '/donate' do
   redirect "https://www.globalmathproject.org/donate"
 end
+
+get '/learn' do
+  redirect "https://www.globalmathproject.org/about"
+end
