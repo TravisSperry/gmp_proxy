@@ -35,3 +35,7 @@ end
 get '/personal-polynomial' do
   redirect "https://www.globalmathproject.org/personal-polynimial"
 end
+
+get '/partners' do
+  redirect "https://www.globalmathproject.org/"
+end
