@@ -43,3 +43,7 @@ end
 get '/ambassador' do
   redirect "https://www.globalmathproject.org/ambassadors"
 end
+
+get '/resources' do
+  redirect "https://www.globalmathproject.org/resources"
+end
